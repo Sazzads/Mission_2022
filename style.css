@@ -25,17 +25,14 @@ body{
 }
 .link-button{
 text-decoration: none;
-background-image: linear-gradient(orange, tomato);
+background-image: linear-gradient(red, Crimson);
 color: white;
 font-weight: 700;
-padding: 10px 40px;
+padding: 12px 35px;
 border-radius: 5px;
 
 }
-.top-banner{
-    background-image: url(images/top-banner.png);
-    background-repeat: no-repeat;
-}
+
 .heading-border{
     padding-left: 10px;
     border-left: 4px solid;
@@ -45,5 +42,24 @@ border-radius: 5px;
 }
 p{
     margin: 25px 0;
+    padding: 5px;
     text-align: justify;
+}
+.my-mission{
+    width: 40%;
+    margin-right: 15px;
+    padding-left: 5px;
+    border-radius: 25px;
+}
+.myMission-img{
+    height: 120px;
+    width: 130px;
+
+}
+#mission-heading{
+    text-align: center; 
+    font-size: 45px;
+}
+.padding{
+    padding:0 20px;
 }
