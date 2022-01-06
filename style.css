@@ -14,7 +14,7 @@ body{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -62,4 +62,40 @@ p{
 }
 .padding{
     padding:0 20px;
+}
+.dev-limit-heading{
+    font-size: 30px; font-weight: 700;
+}
+.about-width{
+    width: 33%;
+    padding:0px 20px;
+    border-image-slice: 1s;
+    border-radius: 20px;
+}
+.about-h2{
+    margin: 30px;
+
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    
+}
+.footer{
+    font-family: cursive ;
+    color: blanchedalmond;
+    margin: 25px;
+    
+
+    
+}
+#footer-style{
+    text-align: center;
+    margin-top: -50px;
+    background-color: black;
+    
+}
+.bg-color{
+    background-image: linear-gradient(grey,white);
+
 }
