@@ -39,6 +39,7 @@ border-radius: 5px;
     border-image:linear-gradient(red, purple) ;
     border-image-slice: 1;
 
+
 }
 p{
     margin: 25px 0;
@@ -96,6 +97,14 @@ p{
     
 }
 .bg-color{
-    background-image: linear-gradient(grey,white);
+    background-image: linear-gradient(white,grey);
+
+}
+.messege-box{
+border-radius: 40px;
+
+}
+.messege{
+    border-radius: 40px;
 
 }
